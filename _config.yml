@@ -21,8 +21,8 @@ defaults:
     layout: post
 email: jack.hughes@earnest-agency.com
 description: A blog about Japan.
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: jekyllrb
 github_username: jekyll
 markdown: kramdown
