@@ -23,8 +23,8 @@ email: jack.hughes@earnest-agency.com
 description: A blog about Japan.
 baseurl: 
 url: 
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: 
+github_username: 
 markdown: kramdown
 theme: minima
 plugins:
